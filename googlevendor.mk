@@ -15,7 +15,10 @@
 # Dialer and Contacts APKs
 PRODUCT_PACKAGES += \
     GoogleContacts \
-    GoogleDialer
+    GoogleDialer \
+    PrebuiltDeskClockGoogle \
+    CalendarGooglePrebuilt \
+    CalculatorGoogle
 
 # Dialer Jar
 PRODUCT_PACKAGES += \
