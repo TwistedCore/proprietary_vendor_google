@@ -17,7 +17,6 @@ PRODUCT_PACKAGES += \
     GoogleContacts \
     GoogleDialer \
     PrebuiltDeskClockGoogle \
-    CalendarGooglePrebuilt \
     CalculatorGoogle
 
 # Dialer Jar
